@@ -107,4 +107,5 @@ bpy.ops.object.delete()
 crear_poligono_2d("Poligono2D", lados=6, radio=5)
 ```
 Vizualización del codigo ejecutado 
+![IMG-20260209-WA0067](https://github.com/user-attachments/assets/0fd3a31c-564d-439c-bed2-c1657695be4e)
 
